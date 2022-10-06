@@ -1,0 +1,29 @@
+---
+title: "Assignment 2 - Mini essay"
+format: pdf
+editor: visual
+---
+
+### In this assignment we will do an EDA (Explanatory Data Analysis) of the dataset heights in the modelr package. You will write your EDA as a mini essay with the following suggested outline
+
+# Abstract
+
+# Introduction 
+
+The dataset your going to study. What you are going to do with it.
+
+# Literature review 
+
+What is known about the connection between physical height, gender, education and income.
+
+EDA Describe the dataset with the help of tables and graphics. First single variable with histograms, density plots etc.. Remember that you can use facets to group on different variables.
+
+# Discussion 
+
+From the EDA what can you say about the connection between income and the available data. Does height determine income?
+
+# Conclusion
+
+for every conclusion one will need a content of something smart
+
+# References
