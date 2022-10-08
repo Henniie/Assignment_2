@@ -27,3 +27,6 @@ From the EDA what can you say about the connection between income and the availa
 for every conclusion one will need a content of something smart
 
 # References
+
+library(magrittr)
+
