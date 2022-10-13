@@ -8,17 +8,19 @@ editor: visual
 
 # Abstract
 
-# Introduction 
+# Introduction
 
 The dataset your going to study. What you are going to do with it.
 
-# Literature review 
+# Literature review
 
 What is known about the connection between physical height, gender, education and income.
 
-EDA Describe the dataset with the help of tables and graphics. First single variable with histograms, density plots etc.. Remember that you can use facets to group on different variables.
+# EDA
 
-# Discussion 
+Describe the dataset with the help of tables and graphics. First single variable with histograms, density plots etc.. Remember that you can use facets to group on different variables.
+
+# Discussion
 
 From the EDA what can you say about the connection between income and the available data. Does height determine income?
 
@@ -30,3 +32,4 @@ for every conclusion one will need a content of something smart
 
 library(magrittr)
 
+![](images/paste-936A24D5.png)
