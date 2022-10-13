@@ -37,4 +37,3 @@ Testing some more...
 library(magrittr)
 
 ![](images/paste-936A24D5.png)
-
